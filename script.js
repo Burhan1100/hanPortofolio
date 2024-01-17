@@ -32,7 +32,7 @@ window,addEventListener('click', function (e){
    }
 });
 
-//dark mode
+//Dark Mode
 const darkToggle = document.querySelector('#dark-toggle');
 const html = document.querySelector('html');
 
